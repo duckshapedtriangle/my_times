@@ -1,0 +1,20 @@
+
+
+.head {
+  width: 1000px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.head_left p {
+  display: inline-block;
+  color: aquamarine;
+}
+
+.head_right ul {
+  width: 200px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
